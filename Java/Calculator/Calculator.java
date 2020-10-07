@@ -82,7 +82,7 @@ public class Calculator {
         int choice;
         double num1, num2, num3;
         int a;
-        System.out.println("=============================================================================");
+        System.out.println("================================================================================");
         System.out.println("1. Addition");
         System.out.println("2. Subtraction");
         System.out.println("3. Multiplication");
@@ -192,7 +192,7 @@ public class Calculator {
                 main(null);
                 break;
         }
-        System.out.println("=============================================================================");
+        System.out.println("================================================================================");
         
     }
 }
